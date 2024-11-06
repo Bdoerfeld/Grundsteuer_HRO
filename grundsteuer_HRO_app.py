@@ -7,7 +7,7 @@ Mit diesem Vergleichsrechner können Bürger der Hansestadt Rostock ihre bisheri
 mit der ab 2025 geplanten neuen Grundsteuer vergleichen. Ziel des Rechners ist es, Transparenz zu schaffen 
 und eine klare Übersicht über mögliche Veränderungen der Steuerlast zu bieten. 
 
-Bei Fragen zur Berechnung wenden Sie sich bitte an [kontakt@fdp-rostock.de](mailto:kontakt@fdp-rostock.de).
+
 """)
 
 # Eingabe der Messbeträge
